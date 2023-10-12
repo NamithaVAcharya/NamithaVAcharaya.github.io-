@@ -1,123 +1,97 @@
----
-layout: default
----
+Technology enthusiast, adaptive, and flexible.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+- **Email:** [namitha20011@gmail.com](mailto:namitha20011@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/namitha-v-acharya-549868210/)
 
-[Link to another page](./another-page.html).
+## Education
 
-There should be whitespace between paragraphs.
+- **Bachelor of Computer Science**  
+  *Don Bosco Institute of Technology*  
+  *08/2018 - 07/2022*
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- **Higher Secondary Education**  
+  *KLE Nijalingappa PU College*  
+  *05/2016 - 06/2018*
 
-# Header 1
+- **Secondary Education**  
+  *Florence High School*  
+  *05/2015 - 04/2016*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Work Experience
 
-## Header 2
+### Admission Counsellor
+**upGrad**  
+*09/2022 - 06/2023*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Achieved 7.75 CGPA.
+- Engaged in communicating with mid-level and senior-level working professionals, understanding their profiles, and delivering data science and tech products for career upskilling.
 
-### Header 3
+## Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Python
+- SQL
+- Data Analysis using Excel
+- Java
+- Machine Learning
+- Numpy
+- Pandas
+- Matplotlib
+- Deep Learning
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Personal Projects
 
-#### Header 4
+- **Light Weight Cloud Computing for Data Storage and Privacy**
+  - Enhanced cloud storage efficiency with 2FA third key implementation for enhanced privacy.
+  
+- **Mobile Application Development**
+  - Created a media player with a seek bar.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Salary Prediction using Linear Regression**
 
-##### Header 5
+## Organizations
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### upGrad (09/2022 - 06/2023)
+**Admission Counsellor**
 
-###### Header 6
+## Certificates
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- Python Certification (Udemy & FreeCodeCamp)
+- Data Analysis using Excel (Udemy)
+- Certified for completion of internship in ML from Comsoft Technologies
+- Certified for completion of internship in genetic sequencing using AI from ARL
+- Linear Regression - Step By Step Guide
+- Fundamentals of Deep Learning of Neural Network
+- Deep Learning A-Z Bootcamp
 
-### There's a horizontal rule below this.
+## Internship Experience
 
-* * *
+### Intern - Machine Learning using Python
+**Comsoft Technologies, Bengaluru**
 
-### Here is an unordered list:
+- Learned ML basics and models.
+- Participated in a project on loan analysis.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Intern - Genetic Sequencing using AI
+**Automata Research Laboratory**
 
-### And an ordered list:
+- Gained knowledge about the importance of AI.
+- Contributed to a small task in the project using Python and its libraries.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Intern - Java
+**IC Solutions**
 
-### And a nested list:
+- Learned Java basics.
+- Part of a project: YouTube feedback calculator.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## Languages
 
-### Small image
+- **English:** Full Professional Proficiency
+- **Kannada:** Full Professional Proficiency
+- **Hindi:** Conversational Proficiency
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Interests
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Machine learning
+- Reading self-development books
+- Data Science
+- Travelling
