@@ -31,7 +31,6 @@ Technology enthusiast, adaptive, and flexible.
 - Python
 - SQL
 - Data Analysis using Excel
-- Java
 - Machine Learning
 - Numpy
 - Pandas
